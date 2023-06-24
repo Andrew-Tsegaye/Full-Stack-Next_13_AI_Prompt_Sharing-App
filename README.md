@@ -1,14 +1,10 @@
 # Full Stack Next.js AI Prompt Sharing Application
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![Demo](https://i.imgur.com/xo7QFT8.png)
 
 ## Description
 
 Welcome to the Full Stack Next.js AI Prompt Sharing Application! This repository contains a web application that allows users to share and discover AI prompts. The application is built using the Next.js framework and incorporates AI capabilities to generate prompts.
-
-## DEMO
-
-![Demo](https://i.imgur.com/xo7QFT8.png)
 
 ## Features
 
@@ -67,6 +63,7 @@ If you encounter any issues or have suggestions for improvements, please open an
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Contact
 
